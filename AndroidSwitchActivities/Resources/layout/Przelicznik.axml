@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FAFAFA">
+    <ScrollView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/przeScrollView">
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:stretchColumns="1">
+            <TextView
+                android:textColor="#000"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <RadioGroup
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioGroup1"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:background="#EAEAEA">
+                <TextView
+                    android:text="Wybierz płeć przed obliczeniami"
+                    android:textColor="#000"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="Mężczyzna"
+                    android:textColor="#000"
+                    android:id="@+id/radioButton1" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kobieta"
+                    android:textColor="#000"
+                    android:id="@+id/radioButton2" />
+            </RadioGroup>
+            <Button
+                android:id="@+id/btnStandard"
+                android:gravity="center"
+                android:text="Donacje standartowe"
+                android:textColor="#fff"
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp" />
+            <Button
+                android:id="@+id/btnNiestandard"
+                android:text="Donacje niestandartowe"
+                android:textColor="#fff"
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp" />
+            <TextView
+                android:id="@+id/txtobliczen"
+                android:layout_marginTop="1dp"
+                android:text="Wynik:"
+                android:textColor="#000"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp" />
+          <Button
+                android:text="Oblicz"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/ObliczButton"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp" />
+            <TextView
+                android:text="Tutaj możesz sprawdzić najbliższy termin, w którym możesz ponownie oddać krew."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:textColor="#fff"
+                android:id="@+id/visitTextView" />
+            <Button
+                android:text="Najbliższa wizyta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/futureVisitButton"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp" />
+            <Button
+                android:id="@+id/btnBack"
+                android:gravity="center"
+                android:text="Zapisz wyniki"
+                android:textColor="#fff"
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp" />
+        </TableLayout>
+    </ScrollView>
+</LinearLayout>

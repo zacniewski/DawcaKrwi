@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="DawcaKrwi.DawcaKrwi" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <uses-sdk android:theme="@style/Theme.AppCompat.Light" android:minSdkVersion="19" android:targetSdkVersion="21" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.LOCATION_HARDWARE" />
+  <application android:icon="@drawable/icon" android:label="Dawca Krwi" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:name="md5345befb843b885960867e1e23f01cec4.AccountActivity" />
+    <activity android:name="md5345befb843b885960867e1e23f01cec4.BloodActivity" />
+    <activity android:name="md5345befb843b885960867e1e23f01cec4.DonacjeStandard" />
+    <activity android:name="md5345befb843b885960867e1e23f01cec4.DonacjeNiestandard" />
+    <activity android:icon="@drawable/icon" android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen" android:name="md5345befb843b885960867e1e23f01cec4.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:name="md5345befb843b885960867e1e23f01cec4.MapActivity" />
+    <activity android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen" android:name="md5345befb843b885960867e1e23f01cec4.Menu" />
+    <activity android:label="Przelicznik donacji" android:name="md5345befb843b885960867e1e23f01cec4.PrzelicznikActivity" />
+    <activity android:label="RecvActivity" android:name="md5345befb843b885960867e1e23f01cec4.RecvActivity" />
+    <activity android:label="RegisterActivity" android:name="md5345befb843b885960867e1e23f01cec4.RegisterActivity" />
+    <activity android:name="md5345befb843b885960867e1e23f01cec4.WizytaActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="DawcaKrwi.DawcaKrwi.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.DawcaKrwi.DawcaKrwi" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

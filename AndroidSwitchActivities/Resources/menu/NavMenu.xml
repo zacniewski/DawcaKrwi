@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:checkableBehavior="single">
+    <item
+      android:id="@+id/nav_home"
+      android:icon="@drawable/ic_home_black_24dp"
+      android:title="Strona główna" />
+    <item
+      android:id="@+id/nav_friends"
+      android:icon="@drawable/ic_question_answer_black_24dp"
+      android:title="Konto" />
+    <item
+      android:id="@+id/nav_messages"
+      android:icon="@drawable/ic_question_answer_black_24dp"
+      android:title="Informacje o krwi" />
+    <item
+      android:id="@+id/nav_donation"
+      android:icon="@drawable/ic_devices_black_24dp"
+      android:title="Donacje" />
+    <item
+      android:id="@+id/nav_map"
+      android:icon="@drawable/ic_devices_black_24dp"
+      android:title="Mapa" />
+    <item
+      android:id="@+id/nav_logout"
+      android:icon="@drawable/ic_devices_black_24dp"
+      android:title="Wyloguj się" />
+  </group>
+</menu>

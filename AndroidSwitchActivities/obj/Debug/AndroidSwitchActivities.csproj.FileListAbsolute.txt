@@ -1,0 +1,133 @@
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\AndroidSwitchActivities.dll
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\AndroidSwitchActivities.pdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\AndroidSwitchActivities.AndroidSwitchActivities.apk
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\AndroidSwitchActivities.AndroidSwitchActivities-Signed.apk
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\AndroidSwitchActivities.csprojResolveAssemblyReference.cache
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\AndroidSwitchActivities.dll
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\AndroidSwitchActivities.pdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\bin\AndroidSwitchActivities.AndroidSwitchActivities.apk
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\res\layout\recvactivity.xml
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\res\layout\main.xml
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\res\values\strings.xml
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\res\drawable\icon.png
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\R.cs.flag
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\uploadflags.txt
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\AndroidSwitchActivities.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\Java.Interop.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\Mono.Android.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\mscorlib.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\System.Core.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\System.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\System.Net.Http.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\System.Xml.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\AndroidSwitchActivities.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\System.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidSwitchActivities\obj\Debug\AndroidSwitchActivities.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\AndroidSwitchActivities.dll
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\AndroidSwitchActivities.pdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\DawcaKrwi.DawcaKrwi.apk
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\DawcaKrwi.DawcaKrwi-Signed.apk
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\MySql.Data.CF.dll
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\AndroidSwitchActivities.dll
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\AndroidSwitchActivities.pdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\bin\DawcaKrwi.DawcaKrwi.apk
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\recvactivity.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\menuactivity.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\header.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\registeractivity.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\przelicznik.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\account.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\mapactivity.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\donacjestandard.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\donacjeniestandard.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\wizytaactivity.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\bloodactivity.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\layout\main.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\values\strings.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable\icon.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\values\styles.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\menu\navmenu.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\values-v21\styles.xml
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-hdpi\ic_devices_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-hdpi\ic_home_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-hdpi\ic_question_answer_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-hdpi\ic_supervisor_account_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-mdpi\ic_devices_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-mdpi\ic_home_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-mdpi\ic_question_answer_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-mdpi\ic_supervisor_account_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xhdpi\ic_devices_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xhdpi\ic_home_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xhdpi\ic_question_answer_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xhdpi\ic_supervisor_account_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxhdpi\ic_devices_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxhdpi\ic_home_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxhdpi\ic_question_answer_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxhdpi\ic_supervisor_account_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxxhdpi\ic_devices_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxxhdpi\ic_home_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxxhdpi\ic_question_answer_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxxhdpi\ic_supervisor_account_black_24dp.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\R.cs.flag
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\uploadflags.txt
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\AndroidSwitchActivities.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\AndroidSwitchActivities.csprojResolveAssemblyReference.cache
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\I18N.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\I18N.West.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\Java.Interop.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\Mono.Android.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\mscorlib.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.Core.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.Data.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.Numerics.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.Transactions.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.Xml.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\AndroidSwitchActivities.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\I18N.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\I18N.West.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\System.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\obj\Debug\AndroidSwitchActivities.dll.mdb
+C:\Users\mateu.PACKARDBELLTSX6\Desktop\Nowy folder\AndroidSwitchActivities\bin\Debug\AndroidSwitchActivities.dll.mdb

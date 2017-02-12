@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="300dp"
+    android:minHeight="400dp"
+    android:background="#FAFAFA">
+    <ScrollView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/wizScrollView">
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:stretchColumns="1">
+            <RadioGroup
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioGroupwiz1"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:background="#EAEAEA">
+                <TextView
+                    android:id="@+id/radioGroupwiz1"
+                    android:text="1. Rodzaj ostatniej donacji:"
+                    android:textColor="#000"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="Krew pełna"
+                    android:textColor="#000"
+                    android:id="@+id/ostDonRadioBtn1" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Osocze met. aferezy"
+                    android:textColor="#000"
+                    android:id="@+id/ostDonRadioBtn2" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Trombafereza"
+                    android:textColor="#000"
+                    android:id="@+id/ostDonRadioBtn3" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Erytrafereza (2j. KKcz)"
+                    android:textColor="#000"
+                    android:id="@+id/ostDonRadioBtn4" />
+            </RadioGroup>
+            <RadioGroup
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioGroupwiz2"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:background="#EAEAEA">
+                <TextView
+                    android:text="2. Rodzaj następnej donacji:"
+                    android:textColor="#000"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="Krew pełna"
+                    android:textColor="#000"
+                    android:id="@+id/nastDonRadioBtn1" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Osocze met. aferezy"
+                    android:textColor="#000"
+                    android:id="@+id/nastDonRadioBtn2" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Trombafereza"
+                    android:textColor="#000"
+                    android:id="@+id/nastDonRadioBtn3" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Erytrafereza (2j. KKcz)"
+                    android:textColor="#000"
+                    android:id="@+id/nastDonRadioBtn4" />
+            </RadioGroup>
+            <Button
+                android:text="Wybierz datę"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/visitdatebutton"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp" />
+          <Button
+                android:text="Oblicz przybliżoną datę"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/makedatebutton"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp" />
+            <TextView
+                android:text="Text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/visitSummaryTextView" />
+            <Button
+                android:text="Powrót"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/visitBackButton"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp" />
+        </TableLayout>
+    </ScrollView>
+</LinearLayout>
